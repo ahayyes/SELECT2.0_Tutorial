@@ -1,4 +1,4 @@
-# Example code and data for the SELECT 2.0 approach introduced in Hayes & Kaye et al., 2024
+# Example code and data for the SELECT 2.0 approach introduced in Hayes & Kaye et al., 
 DOI of paper XX
 
 ## Outline
